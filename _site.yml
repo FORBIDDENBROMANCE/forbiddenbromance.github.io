@@ -1,6 +1,6 @@
 name: "Stats No One Asked For"
 navbar:
-  title: "Stats No One Asked For"
+  title: "Navigation"
   left:
     - text: "Home"
     href: index.html
